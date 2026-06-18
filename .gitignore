@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Virtual environments
+*_venv/
+venv/
+.venv/
+p3_venv/
+
+# Data artifacts (keep raw CSV? see note below — currently NOT ignored so the
+# rubric-required dataset ships with the submission; reconsider if it grows large)
+# data/raw/*.parquet
+# data/processed/*
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# Unwanted Documentation
+*.md
