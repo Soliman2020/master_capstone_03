@@ -1,8 +1,6 @@
 # Project 3 — Applied Machine Learning
-
 ### Reducing False Alarms in IoT-Based Fire Detection
-
-**Udacity AI Mastery Capstone · Machine Learning Foundations**
+![](https://github.com/user-attachments/assets/901e6217-c198-42f3-a6f9-992d446e6ebc)
 
 This project applies supervised machine learning to a public, real-world
 multi-sensor IoT dataset to predict fire alarms — with the operational goal of
